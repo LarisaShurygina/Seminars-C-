@@ -1,0 +1,15 @@
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/bin/Debug/net7.0/seminar1.1
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/bin/Debug/net7.0/seminar1.1.deps.json
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/bin/Debug/net7.0/seminar1.1.runtimeconfig.json
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/bin/Debug/net7.0/seminar1.1.dll
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/bin/Debug/net7.0/seminar1.1.pdb
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/seminar1.1.csproj.AssemblyReference.cache
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/seminar1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/seminar1.1.AssemblyInfoInputs.cache
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/seminar1.1.AssemblyInfo.cs
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/seminar1.1.csproj.CoreCompileInputs.cache
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/seminar1.1.dll
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/refint/seminar1.1.dll
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/seminar1.1.pdb
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/seminar1.1.genruntimeconfig.cache
+/Users/mihail/Desktop/GIT/seminar c#/seminars/seminar1.1/obj/Debug/net7.0/ref/seminar1.1.dll
