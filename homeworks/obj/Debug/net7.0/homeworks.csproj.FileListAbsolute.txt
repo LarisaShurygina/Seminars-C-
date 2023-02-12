@@ -1,0 +1,15 @@
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/bin/Debug/net7.0/homeworks
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/bin/Debug/net7.0/homeworks.deps.json
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/bin/Debug/net7.0/homeworks.runtimeconfig.json
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/bin/Debug/net7.0/homeworks.dll
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/bin/Debug/net7.0/homeworks.pdb
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/homeworks.csproj.AssemblyReference.cache
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/homeworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/homeworks.AssemblyInfoInputs.cache
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/homeworks.AssemblyInfo.cs
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/homeworks.csproj.CoreCompileInputs.cache
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/homeworks.dll
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/refint/homeworks.dll
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/homeworks.pdb
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/homeworks.genruntimeconfig.cache
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/obj/Debug/net7.0/ref/homeworks.dll
