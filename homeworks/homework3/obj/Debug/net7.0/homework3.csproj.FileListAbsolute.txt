@@ -1,0 +1,15 @@
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/bin/Debug/net7.0/homework3
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/bin/Debug/net7.0/homework3.deps.json
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/bin/Debug/net7.0/homework3.runtimeconfig.json
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/bin/Debug/net7.0/homework3.dll
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/bin/Debug/net7.0/homework3.pdb
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/homework3.csproj.AssemblyReference.cache
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/homework3.AssemblyInfoInputs.cache
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/homework3.AssemblyInfo.cs
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/homework3.csproj.CoreCompileInputs.cache
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/homework3.dll
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/refint/homework3.dll
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/homework3.pdb
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/homework3.genruntimeconfig.cache
+/Users/mihail/Desktop/GIT/seminar c#/homeworks/homework3/obj/Debug/net7.0/ref/homework3.dll
